@@ -1,0 +1,8 @@
+---
+hosts:
+- name: route
+  content: 192.168.1.1
+  desc: "main route"
+- name: nas
+  content: 192.168.1.6
+  desc: "main nas"

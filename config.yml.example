@@ -1,0 +1,9 @@
+production:
+  api_token: 'api_token'
+  api_website: 'https://api.name.com'
+  username: 'username'
+  
+development:
+  api_token: 'api_token'
+  api_website: 'https://api.dev.name.com'
+  username: 'username-ote'
